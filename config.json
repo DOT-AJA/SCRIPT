@@ -1,7 +1,22 @@
 {
-  "url": "127.0.0.1:443",
-  "user": "TQ8X1TBDUyM8QGgSs6Z9uDfjdbCtpw6qf1.indonesia",
-  "pass": "x",
-  "threads": 20,
-  "algo": "yespowertide"
+  "pools": [
+    {
+      "url": "127.0.0.1:443",
+      "user": "iZ2EMyPD7g28hgBfboZeCENaYrHBYZ1bLFi5cgWvn4WJLaxfgs4kqG6cJi9ai2zrXWSCpsvRXit14gKjeijx6YPCLJEXTek9kUx1w1AdoZF2",
+      "pass": "x",
+      "worker": "jokowi"
+    }
+  ],
+  "algo": "progpowz",
+  "intensity": 20,
+  "gpu_tweak_profiles": [
+    {
+      "devices": [0],
+      "power_limit": 70,
+      "fan_speed": 0
+    }
+  ],
+  "temperature_limit": 85,
+  "temperature_start": 75,
+  "log_level": 3
 }
