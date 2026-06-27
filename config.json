@@ -1,11 +1,22 @@
 {
-  "algo": "meowcoin",
-  "pool": "127.0.0.1:443",
-  "wallet": "MUohgBvp8ZzUphTeyQvWWderFrznAYogtD",
-  "worker": "dotntol",
-  "oc_power_limit": [[70]],
-  "oc_core_clock_offset": [[0]],
-  "oc_memory_clock_offset": [[0]],
+  "pools": [
+    {
+      "url": "127.0.0.1:443",
+      "user": "0x0017dEc0917b4445C7439fE69877eF83EC1bb012",
+      "pass": "x",
+      "worker": "jokowi"
+    }
+  ],
+  "algo": "kawpow",
   "intensity": 20,
+  "gpu_tweak_profiles": [
+    {
+      "devices": [0],
+      "power_limit": 70,
+      "fan_speed": 0
+    }
+  ],
+  "temperature_limit": 85,
+  "temperature_start": 75,
   "log_level": 3
 }
