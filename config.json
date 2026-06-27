@@ -2,7 +2,7 @@
   "algo": "meowcoin",
   "pool": "127.0.0.1:443",
   "wallet": "MUohgBvp8ZzUphTeyQvWWderFrznAYogtD",
-  "worker": "T4_Rig",
+  "worker": "dotntol",
   "oc_power_limit": [[70]],
   "oc_core_clock_offset": [[0]],
   "oc_memory_clock_offset": [[0]],
