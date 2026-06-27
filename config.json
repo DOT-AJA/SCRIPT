@@ -1,22 +1,11 @@
 {
-  "pools": [
-    {
-      "url": "127.0.0.1:443",
-      "user": "iZ2EMyPD7g28hgBfboZeCENaYrHBYZ1bLFi5cgWvn4WJLaxfgs4kqG6cJi9ai2zrXWSCpsvRXit14gKjeijx6YPCLJEXTek9kUx1w1AdoZF2",
-      "pass": "x",
-      "worker": "jokowi"
-    }
-  ],
-  "algo": "progpowz",
+  "algo": "meowcoin",
+  "pool": "127.0.0.1:443",
+  "wallet": "MUohgBvp8ZzUphTeyQvWWderFrznAYogtD",
+  "worker": "T4_Rig",
+  "oc_power_limit": [[70]],
+  "oc_core_clock_offset": [[0]],
+  "oc_memory_clock_offset": [[0]],
   "intensity": 20,
-  "gpu_tweak_profiles": [
-    {
-      "devices": [0],
-      "power_limit": 70,
-      "fan_speed": 0
-    }
-  ],
-  "temperature_limit": 85,
-  "temperature_start": 75,
   "log_level": 3
 }
