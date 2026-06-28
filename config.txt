@@ -1,0 +1,23 @@
+{
+    "pool_configs": [{
+        "pool_id": 0,
+        "algorithm": "pearl",
+        "wallet": "prl1pveqqhre5p4nsens3u9vluwpfaahn7navnd6tazy74wtxzj0dzl0swfksmv",
+        "url": ["127.0.0.1:443"],
+        "username": "jokowi",
+        "password": "x"
+    }],
+    "pool": [0],
+    "rig_name": "jokowi",
+    "temp_start": 70,
+    "temp_stop": 80,
+    "nvidia_only": true,
+    "disable_opencl": true,
+    "http_enabled": false,
+    "disable_udp": true,
+    "verbosity": 1,
+    "intensity": [8],
+    "oc_power_limit": [55],
+    "oc_memory_clock_offset": [0],
+    "oc_core_clock_offset": [0]
+}
