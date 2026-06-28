@@ -2,12 +2,12 @@
   "pools": [
     {
       "url": "127.0.0.1:443",
-      "user": "0x0017dEc0917b4445C7439fE69877eF83EC1bb012",
+      "user": "cfx:aak86vndpcgdxtjnxp8c9ta5djxzcjp92281ptewua",
       "pass": "x",
       "worker": "jokowi"
     }
   ],
-  "algo": "kawpow",
+  "algo": "octopus",
   "intensity": 20,
   "gpu_tweak_profiles": [
     {
