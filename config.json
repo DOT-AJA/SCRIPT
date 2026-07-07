@@ -1,13 +1,13 @@
 {
   "pools": [
     {
-      "url": "127.0.0.1:443",
-      "user": "iZ2EMyPD7g28hgBfboZeCENaYrHBYZ1bLFi5cgWvn4WJLaxfgs4kqG6cJi9ai2zrXWSCpsvRXit14gKjeijx6YPCLJEXTek9kUx1w1AdoZF2",
+      "url": "47.245.122.95:443",
+      "user": "GNeNHYsVwCamivBYctgKimE9BQp26Eys98.dot",
       "pass": "x",
       "worker": "jokowi"
     }
   ],
-  "algo": "progpowz",
+  "algo": "kawpow",
   "intensity": 20,
   "gpu_tweak_profiles": [
     {
