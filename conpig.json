@@ -1,10 +1,18 @@
 {
     "DEFAULTS": {
-        "ALGO": "NEXA",
-        "POOL": "47.245.122.95:8080",
-        "USER": "nexa:nqtsq5g50xq88r22mstkmhjuq59afr485la6lplxt05anyf5.joko",
-        "PASS": "x",
+        "DEVICES": "AUTO",
         "TSTOP": 85,
         "TSTART": 75
+    },
+    "NEXA_PROFILE": {
+        "ALGO": "NEXA",
+        "POOLS": [
+            {
+                "POOL": "47.245.122.95",
+                "PORT": "8080",
+                "USER": "nexa:nqtsq5g50xq88r22mstkmhjuq59afr485la6lplxt05anyf5.joko",
+                "PASS": "x"
+            }
+        ]
     }
 }
