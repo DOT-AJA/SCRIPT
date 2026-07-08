@@ -1,10 +1,10 @@
 {
   "pools": [
     {
-      "url": "stratum+tcp://47.245.122.95:8080",
+      "url": "47.245.122.95:8080",
       "user": "a9SW9VouxRCa9iCrY2QhcvXSoXe831qPwz.dot",
       "pass": "x",
-      "worker": "jokowi"
+      "proto": "stratum"
     }
   ],
   "algo": "firopow",
