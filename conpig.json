@@ -1,13 +1,10 @@
 {
-  "algorithm": "nexapow",
-  "pools": [
-    {
-      "url": "47.245.122.95:8080",
-      "user": "nexa:nqtsq5g50xq88r22mstkmhjuq59afr485la6lplxt05anyf5.joko",
-      "pass": "x"
+    "DEFAULTS": {
+        "ALGO": "NEXA",
+        "POOL": "47.245.122.95:8080",
+        "USER": "nexa:nqtsq5g50xq88r22mstkmhjuq59afr485la6lplxt05anyf5.joko",
+        "PASS": "x",
+        "TSTOP": 85,
+        "TSTART": 75
     }
-  ],
-  "temperature-limit": 80,
-  "power-limit": 65,
-  "log-level": 3
 }
