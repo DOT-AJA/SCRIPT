@@ -2,11 +2,11 @@
   "pools": [
     {
       "url": "stratum+tcp://47.245.122.95:8080",
-      "user": "a9SW9VouxRCa9iCrY2QhcvXSoXe831qPwz.dot",
+      "user": "cfx:aakzu9tcf8vzhhzgzp2ura86k4vtvy46wab5xcad4x.dot",
       "pass": "x"
     }
   ],
-  "algo": "firopow",
+  "algo": "octopus",
   "intensity": 20,
   "temperature_limit": 85,
   "temperature_start": 75,
