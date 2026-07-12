@@ -1,7 +1,7 @@
 {
   "pools": [
     {
-      "url": "47.245.122.95:8080",
+      "url": "47.245.122.95:443",
       "user": "KRXQAdmrM9hQ6tRCUmy1cZBJ9w8Koee7pv.dot",
       "pass": "x"
     }
