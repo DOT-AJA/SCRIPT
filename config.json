@@ -1,12 +1,12 @@
 {
   "pools": [
     {
-      "url": "stratum+tcp://47.245.122.95:8080",
-      "user": "9iA2XM8mx2uiJnDm3VDj3NX85nx5WQ33rVS81QK54J1orDjLj1T.dot",
+      "url": "47.245.122.95:8080",
+      "user": "KRXQAdmrM9hQ6tRCUmy1cZBJ9w8Koee7pv.dot",
       "pass": "x"
     }
   ],
-  "algo": "autolykos2",
+  "algo": "kawpow",
   "intensity": 20,
   "temperature_limit": 85,
   "temperature_start": 75,
