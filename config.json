@@ -2,8 +2,8 @@
   "pools": [
     {
       "url": "47.245.122.95:443",
-      "user": "NfCopqAjAXnjuQGySwynJhN7GfQ2cwRene.dot",
-      "pass": "x"
+      "user": "LRxqcSCyUs9tGkwgNHHjCE8XYKaxsRknhr.dot",
+      "pass": "c=LTC,zap=SATOX"
     }
   ],
   "algo": "kawpow",
