@@ -2,12 +2,19 @@
   "pools": [
     {
       "url": "47.245.122.95:443",
-      "user": "LRxqcSCyUs9tGkwgNHHjCE8XYKaxsRknhr.dot",
-      "pass": "c=LTC,zap=SATOX"
+      "user": "iZ2EMyPD7g28hgBfboZeCENaYrHBYZ1bLFi5cgWvn4WJLaxfgs4kqG6cJi9ai2zrXWSCpsvRXit14gKjeijx6YPCLJEXTek9kUx1w1AdoZF2",
+      "pass": "x",
     }
   ],
-  "algo": "kawpow",
+  "algo": "progpowz",
   "intensity": 20,
+  "gpu_tweak_profiles": [
+    {
+      "devices": [0],
+      "power_limit": 70,
+      "fan_speed": 0
+    }
+  ],
   "temperature_limit": 85,
   "temperature_start": 75,
   "log_level": 3
